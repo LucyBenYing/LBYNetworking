@@ -19,6 +19,7 @@ s.summary          = 'LBYNetworking verry sample'
 
   s.description      = <<-DESC
 this is to use demo.
+so I'm glad to share with you.
                        DESC
 
   s.homepage         = 'https://github.com/LucyBenYing/LBYNetworking'
