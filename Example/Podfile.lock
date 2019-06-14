@@ -1,0 +1,27 @@
+PODS:
+  - Expecta (1.0.6)
+  - LBYNetworking (0.1.0)
+  - Specta (1.0.7)
+
+DEPENDENCIES:
+  - Expecta
+  - LBYNetworking (from `../`)
+  - Specta
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Expecta
+    - Specta
+
+EXTERNAL SOURCES:
+  LBYNetworking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
+  LBYNetworking: 79626b74e9ba344e9351c02ed6d344e8d0ad9abe
+  Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
+
+PODFILE CHECKSUM: e4b086f90ac5398d300059c9ef158a64df444e3b
+
+COCOAPODS: 1.6.0

@@ -1,0 +1,6 @@
+framework module LBYNetworking {
+  umbrella header "LBYNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}

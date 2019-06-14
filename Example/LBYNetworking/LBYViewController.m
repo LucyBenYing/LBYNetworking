@@ -7,6 +7,7 @@
 //
 
 #import "LBYViewController.h"
+@import LBYNetworking;
 
 @interface LBYViewController ()
 
@@ -17,6 +18,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    [[Networking new] test];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
